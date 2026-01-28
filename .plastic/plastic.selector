@@ -1,4 +1,0 @@
-repository "Click-Click@Zero_Ward@cloud"
-  path "/"
-    br "/main"
-    co "/main"
